@@ -1,0 +1,10 @@
+{"Name":"Россия","Area":10.5,"Population":100.0,"VVP":11.0,"Geolocation":{"x":9.0,"y":0.0,"z":32.0},"modelPrefabName":"russia"}
+{"Name":"Германия","Area":3.5,"Population":10.0,"VVP":2.0,"Geolocation":{"x":0.0,"y":0.0,"z":28.0},"modelPrefabName":"german"}
+{"Name":"Италия","Area":2.5,"Population":10.0,"VVP":3.0,"Geolocation":{"x":0.7,"y":0.0,"z":23.5},"modelPrefabName":"italy"}
+{"Name":"Франция","Area":3.5,"Population":10.0,"VVP":1.0,"Geolocation":{"x":-2.0,"y":0.0,"z":26.0},"modelPrefabName":"france"}
+{"Name":"Португалия","Area":4.5,"Population":10.0,"VVP":1.9,"Geolocation":{"x":-5.0,"y":0.0,"z":22.0},"modelPrefabName":"portugal"}
+{"Name":"Испания","Area":5.5,"Population":10.0,"VVP":1.1,"Geolocation":{"x":-3.5,"y":0.0,"z":22.0},"modelPrefabName":"spain"}
+{"Name":"Украина","Area":6.5,"Population":10.0,"VVP":1.8,"Geolocation":{"x":6.0,"y":0.0,"z":27.0},"modelPrefabName":"ukraine"}
+{"Name":"Польша","Area":2.5,"Population":10.0,"VVP":5.9,"Geolocation":{"x":3.0,"y":0.0,"z":29.0},"modelPrefabName":"poland"}
+{"Name":"Чехия","Area":2.0,"Population":11.0,"VVP":1111.9,"Geolocation":{"x":1.5,"y":0.0,"z":27.5},"modelPrefabName":"czech"}
+{"Name":"Англия","Area":2.0,"Population":11.0,"VVP":1111.9,"Geolocation":{"x":-3.0,"y":0.0,"z":29.0},"modelPrefabName":"england"}
